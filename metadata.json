@@ -1,0 +1,6 @@
+{
+  "name": "PayLedger — Payroll & Attendance DBMS",
+  "description": "Integrated 5-phase PostgreSQL Payroll & Attendance management system featuring 3NF schema, PL/pgSQL procedures and triggers, indexed reporting with EXPLAIN ANALYZE, RBAC, and transactional processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
